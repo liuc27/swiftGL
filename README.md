@@ -1,5 +1,5 @@
 https://github.com/bradley/iOSSwiftOpenGL
-this is bradley 's sample.
+this is bradley 's sample.he is awesome.
 🚨🚨🚨
 Notice: This repository stopped working properly after changes were made early on to the Swift language. After efforts on my part to repair the breakages, I have decided to use Metal instead for my purposes. You can [see example code here](https://github.com/bradley/iOSSwiftMetal).
 🚨🚨🚨
